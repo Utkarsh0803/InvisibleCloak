@@ -16,3 +16,7 @@ The effect is created by detecting a specific HSV color range and substituting i
 ---
 
 ## 📂 Project Structure
+invisible-cloak/
+│── invisible_cloak.py
+│── image.jpg
+│── README.md
